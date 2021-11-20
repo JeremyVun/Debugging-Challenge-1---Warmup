@@ -1,0 +1,3 @@
+# Hints
+## Hint 1
+If at first you don't succeed, keep trying again. Pay close attention to what the Python Console is complaining to you about...
